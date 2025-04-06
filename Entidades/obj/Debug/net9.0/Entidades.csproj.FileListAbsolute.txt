@@ -1,0 +1,14 @@
+C:\Projetos\UniversidadeSocial\Entidades\bin\Debug\net9.0\Entidades.deps.json
+C:\Projetos\UniversidadeSocial\Entidades\bin\Debug\net9.0\Entidades.runtimeconfig.json
+C:\Projetos\UniversidadeSocial\Entidades\bin\Debug\net9.0\Entidades.dll
+C:\Projetos\UniversidadeSocial\Entidades\bin\Debug\net9.0\Entidades.pdb
+C:\Projetos\UniversidadeSocial\Entidades\obj\Debug\net9.0\Entidades.csproj.AssemblyReference.cache
+C:\Projetos\UniversidadeSocial\Entidades\obj\Debug\net9.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\UniversidadeSocial\Entidades\obj\Debug\net9.0\Entidades.AssemblyInfoInputs.cache
+C:\Projetos\UniversidadeSocial\Entidades\obj\Debug\net9.0\Entidades.AssemblyInfo.cs
+C:\Projetos\UniversidadeSocial\Entidades\obj\Debug\net9.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Projetos\UniversidadeSocial\Entidades\obj\Debug\net9.0\Entidades.dll
+C:\Projetos\UniversidadeSocial\Entidades\obj\Debug\net9.0\refint\Entidades.dll
+C:\Projetos\UniversidadeSocial\Entidades\obj\Debug\net9.0\Entidades.pdb
+C:\Projetos\UniversidadeSocial\Entidades\obj\Debug\net9.0\Entidades.genruntimeconfig.cache
+C:\Projetos\UniversidadeSocial\Entidades\obj\Debug\net9.0\ref\Entidades.dll

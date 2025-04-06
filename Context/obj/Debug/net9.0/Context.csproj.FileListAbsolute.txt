@@ -1,0 +1,17 @@
+C:\Projetos\UniversidadeSocial\Context\bin\Debug\net9.0\Context.deps.json
+C:\Projetos\UniversidadeSocial\Context\bin\Debug\net9.0\Context.runtimeconfig.json
+C:\Projetos\UniversidadeSocial\Context\bin\Debug\net9.0\Context.dll
+C:\Projetos\UniversidadeSocial\Context\bin\Debug\net9.0\Context.pdb
+C:\Projetos\UniversidadeSocial\Context\bin\Debug\net9.0\Entidades.dll
+C:\Projetos\UniversidadeSocial\Context\bin\Debug\net9.0\Entidades.pdb
+C:\Projetos\UniversidadeSocial\Context\obj\Debug\net9.0\Context.csproj.AssemblyReference.cache
+C:\Projetos\UniversidadeSocial\Context\obj\Debug\net9.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\UniversidadeSocial\Context\obj\Debug\net9.0\Context.AssemblyInfoInputs.cache
+C:\Projetos\UniversidadeSocial\Context\obj\Debug\net9.0\Context.AssemblyInfo.cs
+C:\Projetos\UniversidadeSocial\Context\obj\Debug\net9.0\Context.csproj.CoreCompileInputs.cache
+C:\Projetos\UniversidadeSocial\Context\obj\Debug\net9.0\Context.csproj.Up2Date
+C:\Projetos\UniversidadeSocial\Context\obj\Debug\net9.0\Context.dll
+C:\Projetos\UniversidadeSocial\Context\obj\Debug\net9.0\refint\Context.dll
+C:\Projetos\UniversidadeSocial\Context\obj\Debug\net9.0\Context.pdb
+C:\Projetos\UniversidadeSocial\Context\obj\Debug\net9.0\Context.genruntimeconfig.cache
+C:\Projetos\UniversidadeSocial\Context\obj\Debug\net9.0\ref\Context.dll

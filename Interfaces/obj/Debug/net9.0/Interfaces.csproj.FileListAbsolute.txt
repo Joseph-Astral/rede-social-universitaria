@@ -1,0 +1,17 @@
+C:\Projetos\UniversidadeSocial\Interfaces\bin\Debug\net9.0\Interfaces.deps.json
+C:\Projetos\UniversidadeSocial\Interfaces\bin\Debug\net9.0\Interfaces.runtimeconfig.json
+C:\Projetos\UniversidadeSocial\Interfaces\bin\Debug\net9.0\Interfaces.dll
+C:\Projetos\UniversidadeSocial\Interfaces\bin\Debug\net9.0\Interfaces.pdb
+C:\Projetos\UniversidadeSocial\Interfaces\bin\Debug\net9.0\Entidades.dll
+C:\Projetos\UniversidadeSocial\Interfaces\bin\Debug\net9.0\Entidades.pdb
+C:\Projetos\UniversidadeSocial\Interfaces\obj\Debug\net9.0\Interfaces.csproj.AssemblyReference.cache
+C:\Projetos\UniversidadeSocial\Interfaces\obj\Debug\net9.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\UniversidadeSocial\Interfaces\obj\Debug\net9.0\Interfaces.AssemblyInfoInputs.cache
+C:\Projetos\UniversidadeSocial\Interfaces\obj\Debug\net9.0\Interfaces.AssemblyInfo.cs
+C:\Projetos\UniversidadeSocial\Interfaces\obj\Debug\net9.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Projetos\UniversidadeSocial\Interfaces\obj\Debug\net9.0\Interfaces.csproj.Up2Date
+C:\Projetos\UniversidadeSocial\Interfaces\obj\Debug\net9.0\Interfaces.dll
+C:\Projetos\UniversidadeSocial\Interfaces\obj\Debug\net9.0\refint\Interfaces.dll
+C:\Projetos\UniversidadeSocial\Interfaces\obj\Debug\net9.0\Interfaces.pdb
+C:\Projetos\UniversidadeSocial\Interfaces\obj\Debug\net9.0\Interfaces.genruntimeconfig.cache
+C:\Projetos\UniversidadeSocial\Interfaces\obj\Debug\net9.0\ref\Interfaces.dll
